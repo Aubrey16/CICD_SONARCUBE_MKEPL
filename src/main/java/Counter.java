@@ -32,8 +32,8 @@ public class Counter {
 		count = count * i;
 	}
 	
-	public void Quadraple(){
-		int i = 4;
+	public void triple(){
+		int i = 3;
 		multiplyBy(i);
 	}
 
